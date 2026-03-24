@@ -7,3 +7,4 @@ This is a simple CRUD app to manage products.
 - Edit product
 - Delete product
 - View products
+- Search product
